@@ -1,0 +1,3 @@
+## voice2face (IEIE 2024 Summer - Undergraduate Student Paper Competition in AI)
+대한전자공학회 2024년도 인공지능 학부생 논문 경진대회 본선 진출 논문 'Inferring facial image of high resolution from voice information'의 실험 코드입니다.
+https://bpai2024.github.io/
