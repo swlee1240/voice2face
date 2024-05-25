@@ -1,0 +1,9 @@
+stylegan2/
+wandb/
+test_data/
+visualization.ipynb
+__pycache__/
+.vscode/
+checkpoint/
+nohup.out
+landmark/shape_predictor_68_face_landmarks.dat
